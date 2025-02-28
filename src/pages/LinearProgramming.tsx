@@ -239,3 +239,4 @@ export const LinearProgramming: React.FC = () => {
     </div>
   );
 };
+// This is linear programming//
